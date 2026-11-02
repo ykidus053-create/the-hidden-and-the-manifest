@@ -1,9 +1,10 @@
 # Launch email — draft, with blanks left blank
 
-**The site is live** at `https://ykidus053-create.github.io/-the-hidden-and-the-manifest-/`. The intended
-clean address (`https://ykidus053-create.github.io/the-hidden-and-the-manifest/`) still needs the owner to
-rename the repo; use the live link below until that is done, then swap it for the clean one. See
-`PUBLICATION-STATUS.md`. If you would rather attach than link, the PDF is at
+**The site is live** at `https://ykidus053-create.github.io/the-hidden-and-the-manifest-/`. The repo rename
+went halfway: the leading hyphen is gone, the trailing one is still there, so the clean address
+(`https://ykidus053-create.github.io/the-hidden-and-the-manifest/`) still 404s. The old double-hyphen address
+is dead too — do not share it. Use the live link below until the final hyphen is removed, then swap it for the
+clean one. See `PUBLICATION-STATUS.md`. If you would rather attach than link, the PDF is at
 `/home/user/getclausery.github.io/book/site-dist/the-hidden-and-the-manifest.pdf`.
 
 Every factual line below comes from `book/PRESS-KIT.md`, the copyright page or the build report. There are no
@@ -42,10 +43,11 @@ a researcher, not by the Church, and is submitted to the Church for correction. 
 getclausery@gmail.com.
 
 Read it free, or download the PDF or EPUB:
-https://ykidus053-create.github.io/-the-hidden-and-the-manifest-/
+https://ykidus053-create.github.io/the-hidden-and-the-manifest-/
 
-`[After the repo rename, replace the line above with
-https://ykidus053-create.github.io/the-hidden-and-the-manifest/ — the URL the book itself cites.]`
+`[Once the trailing hyphen is removed from the repo name, replace the line above with
+https://ykidus053-create.github.io/the-hidden-and-the-manifest/ — the URL the book itself cites.
+The current link will then 404, so do this before sending.]`
 
 `[Anything true about yourself — city, role, studies — or delete this line entirely.]`
 
