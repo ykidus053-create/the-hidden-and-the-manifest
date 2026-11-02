@@ -1,14 +1,12 @@
 #!/usr/bin/env bash
 # Smoke-test the book's live GitHub Pages site.
 #
-#   ./verify-live.sh                                      # intended clean URL (after the final rename)
-#   ./verify-live.sh https://ykidus053-create.github.io/the-hidden-and-the-manifest-/   # live today
+#   ./verify-live.sh                                      # the live book site
 #   CHECK_METADATA=0 ./verify-live.sh http://127.0.0.1:8080/   # local preview: skip URL metadata
 #
 # Run this from a machine with unrestricted internet: this sandbox blocks curl to *.github.io.
 # Every path below is one the brief requires to answer 200. The script exits 1 on any failure.
-# Until the repo's trailing hyphen is removed, metadata checks against the current live URL
-# legitimately warn: canonical/og:url/sitemap declare the final clean address.
+# Canonical, og:url and sitemap all declare the default BASE, so metadata checks pass on the live site.
 
 set -u
 BASE="${1:-https://ykidus053-create.github.io/the-hidden-and-the-manifest/}"
@@ -76,8 +74,7 @@ fi
 
 echo
 if [ "$fails" -gt 0 ]; then
-  echo "$fails check(s) failed. If the clean URL 404s, remove the repo's trailing hyphen in Settings → Repository name."
-  echo "Canonical / og:url / sitemap mismatches are expected until then: they declare the final clean address."
+  echo "$fails check(s) failed. See PUBLICATION-STATUS.md for the verified state and deployment notes."
   exit 1
 fi
 echo "All checks passed."
