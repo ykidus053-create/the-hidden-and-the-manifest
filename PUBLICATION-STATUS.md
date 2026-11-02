@@ -106,6 +106,14 @@ product site and not in that site's sitemap. The old double-hyphen address now 4
 * **`LAUNCH-KIT.md`** — ready-to-use launch package built from `book/PRESS-KIT.md`: verbatim copy blocks,
   quotable lines, editor angles, outreach drafts, live asset inventory, launch-week checklist and guardrails.
   All links point at the live URL; no invented claims; blanks left blank.
+* **`MARKETING-CALENDAR.md`** — six-week follow-on with full post copy per chapter, X/Bluesky, LinkedIn,
+  Reddit, Instagram/TikTok and parish-bulletin rewrites, weekly log template. Original drafts' unverified
+  claims about reception and the author's working life were removed.
+* **`OUTREACH-PACK.md`** — five segmented email drafts, follow-ups, a factual press advisory, an interview
+  one-pager with "never state on the record" rules, and a corrections log.
+* **`DISTRIBUTION-PACK.md`** — copy-paste fields for Academia.edu, Zenodo, Internet Archive and cataloguing
+  metadata; ISBN/DOI/licence left blank; correct citation from the copyright page.
+* **`outreach-tracker.csv`** — contact log with one real launch-milestone row and empty rows; no invented data.
 * **`LAUNCH-EMAIL-DRAFT.md`** — the general announcement email; blanks left blank, no invented claims.
 * **Local preview on port 8080** — same bundle, book material only, never the Clausery product site.
 * **Push-ready repo** at `/home/user/getclausery.github.io/book/site-dist/` — `main` and `gh-pages` hold the

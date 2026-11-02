@@ -10,6 +10,11 @@ This kit is assembled from `book/PRESS-KIT.md` (verbatim copy blocks, quotable l
 asset files. **Nothing here has been sent, posted or uploaded** — these are drafts for the author to fill in.
 Blanks stay blank.
 
+**More materials, same guardrails:** `MARKETING-CALENDAR.md` (six-week follow-on with full post copy and
+platform rewrites) · `OUTREACH-PACK.md` (segmented emails, press advisory, interview one-pager, corrections
+log) · `DISTRIBUTION-PACK.md` (Academia.edu, Zenodo and Internet Archive copy-paste fields) ·
+`outreach-tracker.csv` (contact log).
+
 ---
 
 ## 1. Read this before sending anything
