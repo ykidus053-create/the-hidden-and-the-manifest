@@ -1,8 +1,10 @@
 # Launch email — draft, with blanks left blank
 
-**Do not send until the site is live.** As of 2026-11-02 the address below returns a GitHub Pages 404; see
-`PUBLICATION-STATUS.md`. Until then, attach the PDF from
-`/home/user/getclausery.github.io/book/site-dist/the-hidden-and-the-manifest.pdf` instead of linking.
+**The site is live** at `https://ykidus053-create.github.io/-the-hidden-and-the-manifest-/`. The intended
+clean address (`https://ykidus053-create.github.io/the-hidden-and-the-manifest/`) still needs the owner to
+rename the repo; use the live link below until that is done, then swap it for the clean one. See
+`PUBLICATION-STATUS.md`. If you would rather attach than link, the PDF is at
+`/home/user/getclausery.github.io/book/site-dist/the-hidden-and-the-manifest.pdf`.
 
 Every factual line below comes from `book/PRESS-KIT.md`, the copyright page or the build report. There are no
 reviews, credentials, endorsements, sales figures or "bestselling" / "acclaimed" language, because none exist.
@@ -39,7 +41,11 @@ in typeset PDF, EPUB 3 and a single-file reading edition.
 a researcher, not by the Church, and is submitted to the Church for correction. Corrections:
 getclausery@gmail.com.
 
-`[LINK — use only once live: https://ykidus053-create.github.io/the-hidden-and-the-manifest/]`
+Read it free, or download the PDF or EPUB:
+https://ykidus053-create.github.io/-the-hidden-and-the-manifest-/
+
+`[After the repo rename, replace the line above with
+https://ykidus053-create.github.io/the-hidden-and-the-manifest/ — the URL the book itself cites.]`
 
 `[Anything true about yourself — city, role, studies — or delete this line entirely.]`
 
