@@ -103,7 +103,10 @@ product site and not in that site's sitemap. The old double-hyphen address now 4
 * **The live site:** `https://ykidus053-create.github.io/the-hidden-and-the-manifest/`
 * **`verify-live.sh`** — smoke test for all required paths plus canonical/`og:url`/download/sitemap checks;
   `./verify-live.sh`, or `CHECK_METADATA=0 ./verify-live.sh http://127.0.0.1:8080/`.
-* **`LAUNCH-EMAIL-DRAFT.md`** — updated with the final live link; blanks left blank, no invented claims.
+* **`LAUNCH-KIT.md`** — ready-to-use launch package built from `book/PRESS-KIT.md`: verbatim copy blocks,
+  quotable lines, editor angles, outreach drafts, live asset inventory, launch-week checklist and guardrails.
+  All links point at the live URL; no invented claims; blanks left blank.
+* **`LAUNCH-EMAIL-DRAFT.md`** — the general announcement email; blanks left blank, no invented claims.
 * **Local preview on port 8080** — same bundle, book material only, never the Clausery product site.
 * **Push-ready repo** at `/home/user/getclausery.github.io/book/site-dist/` — `main` and `gh-pages` hold the
   identical 18-file tree, remote set to the final repo name.
@@ -113,6 +116,11 @@ product site and not in that site's sitemap. The old double-hyphen address now 4
 ---
 
 ## Optional next moves (nothing blocking publication)
+
+**Decision, 2026-11-02:** asked whether to shorten the URL further (bare root
+`https://ykidus053-create.github.io/` via a repo rename, or a custom domain via DNS), the owner chose to
+**keep the exact URL**. No rename, no `CNAME`, no rebuild was performed; the site is unchanged and still
+`built` at `c5bf61a`. The work moved to the launch instead — see `LAUNCH-KIT.md`.
 
 1. In Settings → Pages, switch the publishing source from `gh-pages` / `/` to `main` / `/` to match the brief
    literally. Both branches carry the identical tree, so the site is unchanged. Do **not** delete `gh-pages`
