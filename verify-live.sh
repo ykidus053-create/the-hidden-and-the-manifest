@@ -23,6 +23,7 @@ PATHS=(
   "/sitemap.xml"
   "/triage-card.pdf"
   "/robots.txt"
+  "/google1b6d1c6a6ec1afbf.html"   # Search Console verification token — keep it permanently
 )
 
 echo "Checking $BASE"

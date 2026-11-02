@@ -98,11 +98,30 @@ product site and not in that site's sitemap. The old double-hyphen address now 4
 
 ---
 
+## Search Console readiness
+
+The Google HTML verification file is live at
+`https://ykidus053-create.github.io/the-hidden-and-the-manifest/google1b6d1c6a6ec1afbf.html`, serving the
+exact 53-byte token `google-site-verification: google1b6d1c6a6ec1afbf.html` (no redirect, `.nojekyll` keeps
+it verbatim). It was added to the deployed bundle at commit `e9f08ae`, Pages rebuilt `built`, and both `main`
+and `gh-pages` carry it. `robots.txt` allows it; there is no `noindex`; canonical, `og:url`, sitemap and
+sitemap-in-robots all name the clean URL. The property to add is a **URL prefix**, not a Domain property —
+`https://ykidus053-create.github.io/the-hidden-and-the-manifest/` — and the sitemap to submit is
+`.../sitemap.xml`. Full steps in `SEARCH-CONSOLE.md`. Indexing is Google's decision; no crawl or ranking is
+promised.
+
+---
+
 ## Real artifacts
 
 * **The live site:** `https://ykidus053-create.github.io/the-hidden-and-the-manifest/`
-* **`verify-live.sh`** — smoke test for all required paths plus canonical/`og:url`/download/sitemap checks;
-  `./verify-live.sh`, or `CHECK_METADATA=0 ./verify-live.sh http://127.0.0.1:8080/`.
+* **`verify-live.sh`** — smoke test for all required paths plus canonical/`og:url`/download/sitemap checks
+  and the Search Console verification file; `./verify-live.sh`, or
+  `CHECK_METADATA=0 ./verify-live.sh http://127.0.0.1:8080/`.
+* **`SEARCH-CONSOLE.md`** — Google verification file deployed and serving; the exact URL-prefix property to
+  add, the sitemap to submit, and the rebuild caveat.
+* **`google1b6d1c6a6ec1afbf.html`** — backup of the 53-byte verification token, restored after any
+  `make-site.py` rebuild.
 * **`LAUNCH-KIT.md`** — ready-to-use launch package built from `book/PRESS-KIT.md`: verbatim copy blocks,
   quotable lines, editor angles, outreach drafts, live asset inventory, launch-week checklist and guardrails.
   All links point at the live URL; no invented claims; blanks left blank.
