@@ -39,6 +39,13 @@ GitHub Pages project site is verified [2](https://github.com/orgs/community/disc
 The verification URL was fetched from the live host and returned exactly the token above, with no redirect.
 Google's HTML-file check does not follow redirects, so this direct 200 is what matters.
 
+**If Verify fails:** first confirm you chose **URL prefix** (not Domain) and pasted the URL above with no
+extra path. Check that `https://ykidus053-create.github.io/the-hidden-and-the-manifest/google1b6d1c6a6ec1afbf.html`
+still shows the token in a normal browser tab. If the HTML-file method still refuses, choose Search Console's
+**HTML tag** method instead — it displays the exact `<meta name="google-site-verification" ...>` tag to use;
+send me that tag and I'll add it to the landing page's `<head>` and redeploy. Do not guess the meta tag from
+the filename.
+
 ---
 
 ## 2. After verification
