@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ykidus053-create.github.io/the-hidden-and-the-manifest/sitemap.xml
