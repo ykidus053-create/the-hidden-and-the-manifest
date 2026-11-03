@@ -71,7 +71,7 @@ the filename.
 | `og:url` | same URL |
 | `sitemap.xml` `<loc>` values | clean URL root and `/read/` |
 | `robots.txt` Sitemap line | clean URL `sitemap.xml` |
-| All seven required live paths | verified earlier; `./verify-live.sh` re-checks them plus the verification file |
+| All required live paths | verified earlier; `./verify-live.sh` now re-checks 11 paths, the verification file, and the copyright notice on the landing page and in `LICENSE-BOOK.txt` |
 | `.nojekyll` present | Yes — the verification file is served verbatim, not processed by Jekyll |
 
 ### Two honest caveats
@@ -85,22 +85,25 @@ the filename.
 
 ---
 
-## 4. If `book/make-site.py` is ever run again
+## 4. The rebuild of 2026-11-03, and any future rebuild
 
-`make-site.py` clears `book/site-dist/`, so it **will delete the verification file**. Before any redeploy,
-copy the backup back in:
+`make-site.py` **was run again** on 2026-11-03 to put the new copyright notice into every edition. It clears
+`book/site-dist/`, which would have deleted the verification file. The 53-byte backup was copied back in
+before deployment, and the live token was re-fetched from the host afterwards: it still serves
+`google-site-verification: google1b6d1c6a6ec1afbf.html`. **Search Console verification was not interrupted.**
 
 ```sh
 cp /home/user/-the-hidden-and-the-manifest-/google1b6d1c6a6ec1afbf.html \
    /home/user/getclausery.github.io/book/site-dist/google1b6d1c6a6ec1afbf.html
 ```
 
-Then commit in `/home/user/getclausery.github.io/book/site-dist` and push `main` and `gh-pages` as before.
-`verify-live.sh` now checks `/google1b6d1c6a6ec1afbf.html` too, so a rebuild that drops it will fail the smoke
-test instead of silently expiring your Search Console verification. A durable fix would be to have
-`make-site.py` copy a verification file into the bundle — report that to the manuscript chat rather than
-patching the builder here.
+For any future rebuild, do the same before deploying. `verify-live.sh` now checks the token path *and* the
+copyright notice, so a rebuild that drops either one fails the smoke test. A durable fix would be to have
+`make-site.py` copy the verification file into the bundle itself — that is a change for the manuscript chat;
+it is recorded in `RIGHTS-CHANGE.patch` notes rather than patched in isolation here.
 
-The bundle is deployed from the nested repository inside `book/site-dist/`, which is gitignored by the source
-repo `getclausery/getclausery.github.io`. Nothing was committed to that source repo, and the live site's
-content is unchanged apart from this one 53-byte file.
+The 2026-11-03 bundle was deployed from a clean clone of the live `gh-pages` branch (not the old nested repo
+inside `book/site-dist/`, which did not survive a workspace reset). The generated bundle stays gitignored in
+the source repo `getclausery/getclausery.github.io`; the source-level edits are preserved as
+`RIGHTS-CHANGE.patch` in this repository. Nothing was pushed to the source repo's `main`, and no force push
+was used.

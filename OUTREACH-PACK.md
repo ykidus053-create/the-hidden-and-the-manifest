@@ -1,5 +1,15 @@
 # Outreach pack — *The Hidden and the Manifest*
 
+**Rights notice (2026-11-03).** © 2026 Kidus Yared. **All rights reserved.** No reproduction or distribution
+without written permission, except brief quotations in a review with attribution. The book is free **to read**
+at the live URL; it is **not** free to copy, repost, mirror, adapt or upload to a third-party repository.
+Add this line to every post, email and reply you send:
+
+> A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026
+> Kidus Yared. All rights reserved; no reproduction or distribution without written permission.
+
+Full terms and a permission-request template: `PERMISSIONS-POLICY.md`.
+
 **Date:** 2026-11-02 · **Site:** `https://ykidus053-create.github.io/the-hidden-and-the-manifest/`
 **Companion to:** `LAUNCH-KIT.md` · `MARKETING-CALENDAR.md` · `DISTRIBUTION-PACK.md` ·
 `outreach-tracker.csv`
@@ -142,11 +152,11 @@ Thanks for asking. I can't give you a ruling — I wrote a research project, not
 and it says so on its copyright page.
 
 What the book does is take the question seriously: chapters 1–4 describe the movement in its own
-terms, chapter 32 is a ninety-second pastoral triage, and Appendix B is a one-page card designed to
-be photocopied. The reading edition is free and needs no account:
+terms, chapter 32 is a ninety-second pastoral triage, and Appendix B is a one-page card. The reading edition is free to read and needs no account (all rights
+reserved):
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/read/
 
-A theological research project, not authoritative teaching; no imprimatur sought or granted.
+A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026 Kidus Yared. All rights reserved.
 Corrections: getclausery@gmail.com
 ```
 
@@ -165,7 +175,7 @@ Following up once in case the first note was buried. No reply needed if it isn't
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 
 Kidus Yared · getclausery@gmail.com
-A theological research project, not authoritative teaching; no imprimatur sought or granted.
+A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026 Kidus Yared. All rights reserved.
 ```
 
 ---
@@ -237,11 +247,12 @@ does the book say it has no authority, and does that not undercut it? · What wo
 that you are wrong?
 
 **Safe facts to state on the record:** 314 pages · 75,803 words · 40 chapters · 8 appendices (A–H) ·
-first edition MMXXVI / 2026 · Clausery · Kidus Yared · free PDF, EPUB, reading edition · Crimson Text
+first edition MMXXVI / 2026 · Clausery · Kidus Yared · free-to-read PDF, EPUB, reading edition · all rights reserved · Crimson Text
 11/15 on 5.5 × 8.5 in · 14 claims / 14 verdicts (4 integrate, 3 correct, 7 reject) · 40 disputed
 questions · 30-day pilot with controls · `urn:uuid:8f3c1a52-6b64-5d1e-9a77-2f4e0c9b7d31`.
 
-**Never state on the record:** that the Church teaches this; that any bishop, diocese, institution or
+**Never state on the record:** that the book is free to copy, in the public domain, or under a Creative
+Commons licence; that the Church teaches this; that any bishop, diocese, institution or
 academic body has approved, reviewed or adopted it; that it has sold or been reviewed anywhere; that
 the author holds a theological degree or office; that a DOI, ISBN or imprimatur exists; that any
 particular number of people have read or used it. If asked, say the record is empty and point to the

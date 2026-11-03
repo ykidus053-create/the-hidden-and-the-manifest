@@ -1,5 +1,15 @@
 # Marketing calendar — *The Hidden and the Manifest*
 
+**Rights notice (2026-11-03).** © 2026 Kidus Yared. **All rights reserved.** No reproduction or distribution
+without written permission, except brief quotations in a review with attribution. The book is free **to read**
+at the live URL; it is **not** free to copy, repost, mirror, adapt or upload to a third-party repository.
+Add this line to every post, email and reply you send:
+
+> A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026
+> Kidus Yared. All rights reserved; no reproduction or distribution without written permission.
+
+Full terms and a permission-request template: `PERMISSIONS-POLICY.md`.
+
 **Date:** 2026-11-02 · **Site:** `https://ykidus053-create.github.io/the-hidden-and-the-manifest/`
 **Companion to:** `LAUNCH-KIT.md` (fact sheet, copy blocks, assets, launch week) · `OUTREACH-PACK.md` ·
 `DISTRIBUTION-PACK.md` · `outreach-tracker.csv`
@@ -58,10 +68,10 @@ Fourteen central claims. Fourteen verdicts: four to integrate, three to correct,
 The book is a study of the manifestation movement, not a defence of it. Chapter 13 goes claim by
 claim, with reasons rather than adjectives. Appendix A then lists forty questions it could not answer.
 
-Free PDF, EPUB and full reading edition:
+Free-to-read PDF, EPUB and full reading edition (personal reading; all rights reserved):
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 
-A theological research project, not authoritative teaching; no imprimatur sought or granted.
+A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026 Kidus Yared. All rights reserved.
 ```
 Asset: `/social/quote-engine.png` · alt text: "Manifestation is not a set of false beliefs. It is a set of true observations attached to a false engine." — *The Argument on One Page*.
 
@@ -70,10 +80,11 @@ Asset: `/social/quote-engine.png` · alt text: "Manifestation is not a set of fa
 ```
 Ninety seconds, one page, three colours, one rule about the bedside.
 
-Appendix B is a one-page pastoral triage card designed to be photocopied and given away. Chapter 32
-is the chapter it comes from. Both are free.
+Appendix B is a one-page pastoral triage card; chapter 32 is the chapter it comes from. Both are free
+to read. © 2026 Kidus Yared. All rights reserved — reproduction or distribution requires written
+permission.
 
-Print it: https://ykidus053-create.github.io/the-hidden-and-the-manifest/triage-card.pdf
+The card: https://ykidus053-create.github.io/the-hidden-and-the-manifest/triage-card.pdf
 Read it:  https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 
 The card says it is not a substitute for a trained director, a confessor, or a clinician. The book
@@ -92,9 +103,9 @@ Part Four sets out six marks of a Catholic practice, four transpositions of meth
 use, a nine-day Novena of Desire, and a thirty-day pilot with controls. The point is to give a
 person something to keep on a Tuesday.
 
-Free, 314 pages: https://ykidus053-create.github.io/the-hidden-and-the-manifest/
+314 pages, free to read; all rights reserved: https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 
-A theological research project, not authoritative teaching; no imprimatur sought or granted.
+A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026 Kidus Yared. All rights reserved.
 ```
 Asset: `/social/quote-building.png`.
 
@@ -107,9 +118,9 @@ for measuring fruit rather than testimonials.
 A book that explains how to prove it wrong is a book that can be taken seriously. Appendix A adds
 forty disputed questions where the argument is still open.
 
-Free PDF: https://ykidus053-create.github.io/the-hidden-and-the-manifest/
+Free-to-read PDF; all rights reserved: https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 
-A theological research project, not authoritative teaching; no imprimatur sought or granted.
+A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026 Kidus Yared. All rights reserved.
 ```
 Asset: `/social/quote-agency.png` · alt text: "The manifest space has an intense sense of agency and no doctrine of providence." — ch. 3.
 
@@ -124,7 +135,7 @@ The book is free and it asks, in print, to be corrected.
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 getclausery@gmail.com
 
-A theological research project, not authoritative teaching; no imprimatur sought or granted.
+A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026 Kidus Yared. All rights reserved.
 ```
 Asset: `/social/og-card.png` (1200×630, link-preview sized).
 
@@ -142,7 +153,7 @@ reviews, credentials, adoption or results.
 ### X / Bluesky — genealogy thread, 4 posts
 
 ```
-1/ Manifestation is usually presented as timeless. Chapter 2 of this free book treats it as a
+1/ Manifestation is usually presented as timeless. Chapter 2 of this book, free to read, treats it as a
 datable movement: seven rules, and each one has an author and a year.
 
 2/ The book sets out that history in its own terms before testing it. The point of a genealogy is
@@ -151,9 +162,9 @@ that a system with a history can be converted — which is the argument Aquinas'
 3/ It then gives fourteen central claims fourteen verdicts: four integrate, three correct, seven
 reject. The dated list itself is in chapter 2; I'm not going to summarise it badly in a thread.
 
-4/ 314 pages, free, PDF + EPUB + full reading edition:
+4/ 314 pages, free to read, PDF + EPUB + full reading edition; all rights reserved:
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
-A theological research project, not authoritative teaching; no imprimatur sought or granted.
+A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026 Kidus Yared. All rights reserved.
 ```
 
 ### LinkedIn
@@ -167,7 +178,7 @@ verdicts — four to integrate, three to correct, seven to reject. It then build
 than a prohibition: a one-page ninety-second triage card, a nine-day novena, and a thirty-day pilot
 with controls.
 
-Free PDF, EPUB and reading edition. No imprimatur sought or granted; the book states on its
+Free-to-read PDF, EPUB and reading edition; all rights reserved. No imprimatur sought or granted; the book states on its
 copyright page that it is a theological research project submitted to the Church for correction.
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 ```
@@ -184,7 +195,7 @@ grammar in its own terms, then run it through Aquinas's method: describe, test, 
 rebuild. Fourteen central claims, fourteen verdicts — four integrate, three correct, seven reject.
 Appendix B is a one-page triage card; Appendix A lists forty questions I could not answer.
 
-Free PDF and EPUB, no email required:
+Free-to-read PDF and EPUB, no email required; all rights reserved:
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 I'd rather have corrections than upvotes: getclausery@gmail.com
 ```
@@ -194,7 +205,8 @@ I'd rather have corrections than upvotes: getclausery@gmail.com
 ```
 "Manifestation says your thoughts create reality. The book's argument is that this isn't true — and
 that the more interesting question is which of the movement's observations are true. It keeps four
-of fourteen central claims, corrects three, and rejects seven. 314 pages, free, PDF and EPUB. It's
+of fourteen central claims, corrects three, and rejects seven. 314 pages, free to read, PDF and EPUB;
+all rights reserved. It's
 a theological research project, not authoritative teaching; no imprimatur has been sought or
 granted. Link in bio."
 ```
@@ -203,10 +215,10 @@ Cover: `/social/story.png`. Say the disclosure out loud or put it in the caption
 ### Parish bulletin blurb
 
 ```
-Is it okay to manifest? A new free book, The Hidden and the Manifest (314 pp, 2026), takes the
+Is it okay to manifest? A new book, free to read, The Hidden and the Manifest (314 pp, 2026), takes the
 question seriously: what the movement gets right, what it gets wrong, and a one-page triage for the
-person asking. A theological research project, not authoritative teaching; no imprimatur claimed.
-Free PDF: https://ykidus053-create.github.io/the-hidden-and-the-manifest/
+person asking. A theological research project, not authoritative teaching; no imprimatur claimed. © 2026 Kidus Yared. All rights reserved.
+Free-to-read PDF; all rights reserved: https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 ```
 
 ### Email subject lines (from `book/MARKETING.md` §4 — no claims in them)

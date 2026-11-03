@@ -23,6 +23,7 @@ PATHS=(
   "/sitemap.xml"
   "/triage-card.pdf"
   "/robots.txt"
+  "/LICENSE-BOOK.txt"   # the copyright / rights notice must stay public
   "/google1b6d1c6a6ec1afbf.html"   # Search Console verification token — keep it permanently
 )
 
@@ -39,11 +40,27 @@ for p in "${PATHS[@]}"; do
 done
 
 echo
+html=$(curl -sL --max-time 25 "$BASE/" 2>/dev/null)
+rights=$(curl -sL --max-time 25 "$BASE/LICENSE-BOOK.txt" 2>/dev/null)
+echo "Copyright / rights checks"
+if printf '%s' "$html" | grep -q 'All rights reserved' && ! printf '%s' "$html" | grep -qi 'free to read, copy'; then
+  printf '  PASS  %-12s landing page asserts the copyright notice\n' 'rights'
+else
+  printf '  FAIL  %-12s landing page is missing the rights notice (or still grants copying)\n' 'rights'
+  fails=$((fails + 1))
+fi
+if printf '%s' "$rights" | grep -q 'All rights reserved' && ! printf '%s' "$rights" | grep -qi 'free to read, copy'; then
+  printf '  PASS  %-12s LICENSE-BOOK.txt carries the notice\n' 'licence'
+else
+  printf '  FAIL  %-12s LICENSE-BOOK.txt is missing the rights notice\n' 'licence'
+  fails=$((fails + 1))
+fi
+
+echo
 if [ "$CHECK_METADATA" = "0" ]; then
   echo "Metadata checks skipped (CHECK_METADATA=0)."
 else
   echo "Metadata checks"
-  html=$(curl -sL --max-time 25 "$BASE/" 2>/dev/null)
   canonical=$(printf '%s' "$html" | grep -o 'rel="canonical" href="[^"]*"' | head -1 | sed 's/.*href="//;s/"$//' || true)
   ogurl=$(printf '%s' "$html" | grep -o 'property="og:url" content="[^"]*"' | head -1 | sed 's/.*content="//;s/"$//' || true)
   for pair in "canonical|$canonical" "og-url|$ogurl"; do

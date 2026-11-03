@@ -1,5 +1,15 @@
 # Launch kit — *The Hidden and the Manifest*
 
+**Rights notice (2026-11-03).** © 2026 Kidus Yared. **All rights reserved.** No reproduction or distribution
+without written permission, except brief quotations in a review with attribution. The book is free **to read**
+at the live URL; it is **not** free to copy, repost, mirror, adapt or upload to a third-party repository.
+Add this line to every post, email and reply you send:
+
+> A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026
+> Kidus Yared. All rights reserved; no reproduction or distribution without written permission.
+
+Full terms and a permission-request template: `PERMISSIONS-POLICY.md`.
+
 **Date:** 2026-11-02 (Africa/Addis_Ababa)
 **Site:** `https://ykidus053-create.github.io/the-hidden-and-the-manifest/` — live, `Pages status: built`,
 all seven required paths verified.
@@ -43,7 +53,7 @@ log) · `DISTRIBUTION-PACK.md` (Academia.edu, Zenodo and Internet Archive copy-p
 | **Edition** | First, MMXXVI (2026); © 2026 Kidus Yared |
 | **Extent** | 314 pages · 75,803 words · 40 chapters · 6 parts · 8 appendices (A–H) |
 | **Formats** | Typeset PDF (5.5 × 8.5 in), EPUB 3, single-file reading edition, one-page triage card |
-| **Price** | Free to read, copy and distribute |
+| **Price** | Free to read; © 2026 Kidus Yared, all rights reserved |
 | **Identifier** | `urn:uuid:8f3c1a52-6b64-5d1e-9a77-2f4e0c9b7d31` (DOI pending) |
 | **Status** | A theological research project. No *imprimatur* sought or granted. Submitted for correction. |
 | **Contact** | getclausery@gmail.com |
@@ -64,12 +74,13 @@ The book's verification build ends **161/161 checks passed**.
 > Manifestation is not a set of false beliefs; it is a set of true observations attached to a false engine.
 > *The Hidden and the Manifest* does with the manifest space what Aquinas did with Aristotle — states it in
 > its own terms, tests every claim, rejects what is false, keeps what is true, and rebuilds the rest inside
-> the faith. Free, 314 pages, 2026.
+> the faith. 314 pages, 2026; free to read, all rights reserved.
 
 **Author bio — short (33 words, safe for a byline)**
 
 > Kidus Yared writes on Catholic theology and the spiritual vocabulary of the internet. *The Hidden and the
-> Manifest* is a theological research project, published free, with no claim to ecclesiastical authority.
+> Manifest* is a theological research project, published free to read and all rights reserved, with no
+> claim to ecclesiastical authority.
 
 **Author bio — longer (68 words)**
 
@@ -135,8 +146,8 @@ Each ends at the same link. Keep the authority line in the thread or the image's
 "Manifestation is not a set of false beliefs. It is a set of true observations attached to a false engine."
 — The Argument on One Page
 
-A free, 314-page theological research project. Not authoritative teaching; no imprimatur sought or
-granted; submitted to the Church for correction.
+A 314-page theological research project, free to read. Not authoritative teaching; no imprimatur sought
+or granted; submitted to the Church for correction. © 2026 Kidus Yared. All rights reserved.
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 ```
 
@@ -144,7 +155,8 @@ https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 ```
 "In the manifest space, desire is the compass and the credential." — ch. 2
 
-From a free 314-page study of what the manifestation movement notices truly and explains falsely.
+From a 314-page study, free to read, of what the manifestation movement notices truly and explains
+falsely. All rights reserved.
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 ```
 
@@ -168,7 +180,7 @@ https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 ```
 "Nobody in the manifest space has written a Summa." — ch. 3
 
-Aquinas's method applied to a twenty-first-century feed. Free PDF and one-page triage card:
+Aquinas's method applied to a twenty-first-century feed. Free-to-read PDF and triage card; all rights reserved:
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 ```
 
@@ -177,7 +189,7 @@ https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 The book's verdict on the movement it studies is reject seven times out of fourteen. A religious
 book that argues against its own audience is unusual enough to report.
 
-Free, 314 pages: https://ykidus053-create.github.io/the-hidden-and-the-manifest/
+314 pages, free to read; all rights reserved: https://ykidus053-create.github.io/the-hidden-and-the-manifest/
 ```
 
 ---
@@ -210,7 +222,7 @@ I'm writing because the question arrives in pastoral conversations and is rarely
 sermon: someone who journals their manifestations, or says the universe responds to their vibration,
 and ninety seconds to say something that is neither contempt nor agreement.
 
-I wrote a free book about it. The two most useful pieces are the one-page triage card (three colours,
+I wrote a book about it; it is free to read and all rights reserved. The two most useful pieces are the one-page triage card (three colours,
 one rule about the bedside) and chapter 32, which it comes from:
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/triage-card.pdf
 https://ykidus053-create.github.io/the-hidden-and-the-manifest/
@@ -230,8 +242,9 @@ Subject: Guest idea — a Catholic research project on manifestation (and the fo
 
 [Name],
 
-Your episode with [X] on [topic] is why I'm writing. I've finished a free 314-page theological
-research project that takes manifestation seriously enough to state it in its own terms, then tests it
+Your episode with [X] on [topic] is why I'm writing. I've finished a 314-page theological
+research project, free to read and all rights reserved, that takes manifestation seriously enough to
+state it in its own terms, then tests it
 with Aquinas's method: fourteen central claims, fourteen verdicts — four integrate, three correct,
 seven reject.
 
@@ -239,10 +252,11 @@ Possible angles (choose one):
   - A thirteenth-century method applied to a twenty-first-century feed, with the four limits stated.
   - The genealogy: the movement's rules have authors and dates; it is datable, not perennial.
   - The honesty angle: the verdict on the movement is reject seven times out of fourteen.
-  - The pastoral angle: a ninety-second, one-page triage card designed to be photocopied.
+  - The pastoral angle: a ninety-second, one-page triage card (reproduction by written permission).
   - The falsifiability angle: chapter 36 explains how to prove the book wrong.
 
-The book is free, 314 pages, with no publisher, no imprimatur and no claim to ecclesiastical authority;
+The book is free to read, 314 pages, with no publisher, no imprimatur and no claim to ecclesiastical
+authority; © 2026 Kidus Yared, all rights reserved;
 it is submitted to the Church for correction. I'm not selling anything — I'm looking for the strongest
 version of the objection, on the record.
 

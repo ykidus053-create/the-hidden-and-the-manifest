@@ -1,9 +1,20 @@
 # Distribution pack — repositories, metadata and identifiers
 
-**Date:** 2026-11-02 · **Book:** *The Hidden and the Manifest*, Kidus Yared, Clausery, first edition MMXXVI
+**Rights notice (2026-11-03).** © 2026 Kidus Yared. **All rights reserved.** No reproduction or distribution
+without written permission, except brief quotations in a review with attribution. The book is free **to read**
+at the live URL; it is **not** free to copy, repost, mirror, adapt or upload to a third-party repository.
+Add this line to every post, email and reply you send:
+
+> A theological research project, not authoritative teaching; no imprimatur sought or granted. © 2026
+> Kidus Yared. All rights reserved; no reproduction or distribution without written permission.
+
+Full terms and a permission-request template: `PERMISSIONS-POLICY.md`.
+
+**Date:** 2026-11-03 (rights revision) · **Book:** *The Hidden and the Manifest*, Kidus Yared, Clausery, first edition MMXXVI
 **Live site:** `https://ykidus053-create.github.io/the-hidden-and-the-manifest/`
-**File to upload:** `/home/user/getclausery.github.io/book/site-dist/the-hidden-and-the-manifest.pdf`
-(314 pages, 1,550,722 bytes; verification build ends 161/161 checks passed)
+**File for a permitted upload only:** `/home/user/getclausery.github.io/book/site-dist/the-hidden-and-the-manifest.pdf`
+(314 pages, 1,551,179 bytes; verification build ends 161/161 checks passed). Uploading this file to a
+third-party repository is a distribution act that requires the author's written permission.
 
 `book/MARKETING.md` §7 calls a DOI the single highest-credibility action in the whole plan: it turns
 "a PDF on a website" into "a publication with an identifier". These are copy-paste fields. **Nothing has
@@ -15,14 +26,17 @@ been uploaded.** Blanks stay blank.
 
 * **No ISBN. DOI pending.** Do not paste a placeholder that looks like one. The identifier that exists is
   `urn:uuid:8f3c1a52-6b64-5d1e-9a77-2f4e0c9b7d31`.
-* **Licence is the author's decision.** The book's own copyright page says: *"Free to read, copy, and
-  distribute, in whole or in part, provided this notice travels with it and any changes are marked as
-  changes."* `book/MARKETING.md` §7 suggests a CC licence for Internet Archive — check compatibility with
-  that notice before choosing one, and leave the field blank until you have.
+* **All rights reserved.** The book's own copyright page now says: *"© 2026 Kidus Yared. All rights
+  reserved. No part of this book may be reproduced, distributed, or adapted without the author's written
+  permission, except brief quotations in a review with attribution."* Do **not** select a Creative Commons
+  licence, mark the work "open access", or upload the full text to any third-party repository without the
+  author's written permission. **Metadata-only records** (title, author, abstract, citation, live URL) are
+  safe; full-text uploads are a rights decision the author must make explicitly. Leave every licence field
+  blank. This replaces the old free-to-copy notice; see `PERMISSIONS-POLICY.md`.
 * **No authority claims.** Every description must state that this is a theological research project, not
   an authoritative text, with no imprimatur sought or granted.
-* **Correct citation.** Use the citation from the book's copyright page (below). `book/PITCH.md` line ~122
-  still ends with `getclausery.github.io` — reported to the manuscript chat, not patched here. Do not use it.
+* **Correct citation.** Use the citation from the book's copyright page (below). The stale `getclausery.github.io` links in the press materials were corrected in `RIGHTS-CHANGE.patch`
+  (this repo, 2026-11-03); use the live URL in the citation above.
 
 > Yared, Kidus. *The Hidden and the Manifest: A Catholic Theology of Manifestation, and How the Church May
 > Baptize an Age*. First edition. Clausery, 2026.
@@ -107,10 +121,11 @@ theology, New Age, the Secret
 
 **Text field note to paste under the file**
 ```
-Free to read, copy and distribute in whole or in part, provided the copyright notice travels with it and
-any changes are marked as changes. Not an official publication of any ecclesiastical authority: no
-imprimatur has been sought or granted. Written with the help of the Holy Spirit and submitted to the
-Church for correction. Typeset edition, 314 pages, first edition MMXXVI.
+© 2026 Kidus Yared. All rights reserved. No reproduction or distribution without the author's
+written permission, except brief quotations in a review with attribution. Not an official publication
+of any ecclesiastical authority: no imprimatur has been sought or granted. Written with the help of
+the Holy Spirit and submitted to the Church for correction. Typeset edition, 314 pages, first edition
+MMXXVI.
 ```
 
 After uploading, add the book to the profile's "Books" section.
@@ -130,7 +145,7 @@ Fill only what exists; leave the rest blank.
 | Publication date | `2026` |
 | Publisher | `Clausery` |
 | Language | `eng` |
-| Licence | `[blank — author to choose; see guardrails]` |
+| Licence | `[blank — all rights reserved; do not select an open licence]` |
 | Related identifier | `urn:uuid:8f3c1a52-6b64-5d1e-9a77-2f4e0c9b7d31` (type: `Other`) |
 | Alternate URL | `https://ykidus053-create.github.io/the-hidden-and-the-manifest/` |
 | Keywords | the keyword list above |
@@ -153,11 +168,13 @@ Semantic Scholar / Google Scholar. Do not write "DOI pending" into any form as t
 | Subject tags | the twelve research interests above |
 | Identifier | `urn:uuid:8f3c1a52-6b64-5d1e-9a77-2f4e0c9b7d31` |
 | Language | `English` |
-| Licence | `[blank — author to choose; check against the book's notice]` |
-| Files | the typeset PDF; optionally the EPUB and `LICENSE-BOOK.txt` |
+| Licence | `[blank — all rights reserved; no open licence]` |
+| Files | `[metadata only until the author gives written permission]`; if permission is granted: the typeset PDF, optionally the EPUB and `LICENSE-BOOK.txt` |
 
 `book/MARKETING.md` §7 notes that a repository copy is citable, mirrored and indexed more reliably than a
-GitHub Pages URL. Include the book's `LICENSE-BOOK.txt` so the rights notice travels with the file.
+GitHub Pages URL. That benefit does not override the copyright notice: a metadata-only record is the safe
+default. If the author grants written permission for a full-text deposit, include `LICENSE-BOOK.txt` so the
+rights notice travels with the file, and record the permission in writing.
 
 ---
 
@@ -184,8 +201,8 @@ ISBN/DOI:   none / pending
 
 ## 5. Order of operations, and what to log
 
-1. Academia.edu — fields above; add to profile Books.
-2. Internet Archive — PDF + `LICENSE-BOOK.txt`; choose a licence that matches the book's notice.
+1. **Metadata-only records first** — Academia.edu, Zenodo and Internet Archive fields above, with no full-text file and no licence selected.
+2. **Full-text uploads only after written permission from the author** — record who gave it and when; then PDF + `LICENSE-BOOK.txt`. Do not choose a licence.
 3. Zenodo — mint the DOI; record it in `LAUNCH-KIT.md` §2 and in `PUBLICATION-STATUS.md`.
 4. Semantic Scholar / Google Scholar — only after a DOI exists.
 5. Log each upload in `outreach-tracker.csv` with the resulting URL and the date.
